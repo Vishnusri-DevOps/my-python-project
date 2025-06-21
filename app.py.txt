@@ -1,5 +1,5 @@
 def greet(name):
-    return f"Hello, {name}!"
+    return f"Greetings, {name}! Hope you're well."
 
 def square(number):
     return number * number # A simple square function
