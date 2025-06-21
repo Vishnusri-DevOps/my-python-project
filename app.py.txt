@@ -1,5 +1,5 @@
 def greet(name):
-    return f"Hello, {name}!"
+    return f"Greetings, {name}! Hope you're well."
 
 if __name__ == "__main__":
     print(greet("World"))
